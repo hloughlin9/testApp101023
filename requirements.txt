@@ -220,7 +220,6 @@ lightgbm==3.3.2
 lime==0.2.0.1
 limits==3.6.0
 linkify-it-py==2.0.0
-List-of-Maine-Lighthouses @ file:///C:/Users/henry/PycharmProjects/listOfLighthouses
 llvmlite==0.39.0
 lockfile==0.12.2
 lxml==4.9.1
